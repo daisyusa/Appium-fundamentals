@@ -3,6 +3,9 @@
 # Quickstart
 https://appium.io/docs/en/latest/quickstart/
 
+# Real devices
+https://appium.github.io/appium-xcuitest-driver/latest/getting-started/provisioning-profile/
+
 # Test script examples
 https://github.com/appium/appium/tree/master/packages/appium/sample-code/quickstarts
 
