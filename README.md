@@ -17,6 +17,7 @@ https://appium.io/docs/en/latest/llms.txt
 
 # Tutorial
 https://testautomationu.applitools.com/appium-java-tutorial-1/
+
 Demo code is in this repo: https://github.com/moatazeldebsy/Appium-TAU/branches/all
 
 https://www.linkedin.com/learning/advanced-appium
